@@ -10,6 +10,7 @@
 3. post without view insights
 
 view insights = contains various information such as impression, reach count, and external link click count
+
 boost = boost post exposure rate with payment.
 
 - instagram_tag_project.ipynb -> distinguish the post type: reels and videos.
