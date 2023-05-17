@@ -1,8 +1,8 @@
 # Project_Work
 
-sephora.ipynb -> collect Sephora offline stores' address that locate in US (excluded stores in Kohl's)
+- sephora.ipynb -> collect Sephora offline stores' address that locate in US (excluded stores in Kohl's)
 
-instagram_post_project.ipynb -> collect Instagram post informations. 
+- instagram_post_project.ipynb -> collect Instagram post informations. 
 
 [Instagram Post Categories]
 1. post with view insights, 'boostable'
@@ -12,7 +12,7 @@ instagram_post_project.ipynb -> collect Instagram post informations.
 view insights = contains various information such as impression, reach count, and external link click count
 boost = boost post exposure rate with payment.
 
-instagram_tag_project -> distinguish the post type: reels and videos.
+- instagram_tag_project.ipynb -> distinguish the post type: reels and videos.
 
 [reels vs videos]
 reels: up to 90 seconds
